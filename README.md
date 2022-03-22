@@ -1,4 +1,4 @@
-# TRABAJO-1-ESTAD-STICA-DESCRIPTIVA
+# TRABAJO-1-ESTADISTICA-DESCRIPTIVA
 El objetivo principal del trabajo es aportar información relevante sobre el comportamiento de la demanda y su relación con el resto de variables suministradas.   Es un trabajo de estadística descriptiva, no utilices técnicas de inferencia estadística en el mismo.  Hay libertad en la organización de los apartados del trabajo, pero se tienen que tratar al menos los siguientes aspectos:
 
 ·         Analizar la evolución temporal de las variables demanda y temperatura
